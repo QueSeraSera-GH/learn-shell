@@ -21,7 +21,7 @@ echo "Hello World"
 
 echo -e "\e[31m Hello World in Red\e[0m"
 echo -e "\e[32m Hello World in Green\e[0m"
-echo -e "\e[32m Hello World in Yellow\e[0m"
+echo -e "\e[33m Hello World in Yellow\e[0m"
 echo -e "\e[34m Hello World in Blue\e[0m"
 echo -e "\e[35m Hello World in Magenta\e[0m"
 echo -e "\e[36m Hello World in Cyan\e[0m"
