@@ -2,6 +2,7 @@
 
 # syntax echo input
 
+
 source common.sh
 
 echo -e "$red Using common file to display Green color $no_color"
