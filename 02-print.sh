@@ -7,7 +7,7 @@ source common.sh
 
 echo -e "$red Using common file to display Green color $no_color"
 
-echo -e " Hello World"
+echo -e "Hello World"
 
 # print colors
 # syntax echo -e "\e[COLm Hello World\e[0m"
