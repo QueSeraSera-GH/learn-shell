@@ -27,7 +27,7 @@ echo -e "\e[35m Hello World in Magenta\e[0m"
 echo -e "\e[36m Hello World in Cyan\e[0m"
 
 
-red="\e[35m"
+red="\e[31m"
 no_color="\e[0m"
 
 echo -e "$red Using variable to display Red color $no_color"
