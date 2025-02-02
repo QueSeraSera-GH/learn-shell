@@ -2,7 +2,11 @@
 
 # syntax echo input
 
-echo "Hello World"
+source common.sh
+
+echo -e "$red Using common file to display Red color $no_color"
+
+echo -e "Hello World"
 
 # print colors
 # syntax echo -e "\e[COLm Hello World\e[0m"
@@ -27,7 +31,6 @@ echo -e "\e[35m Hello World in Magenta\e[0m"
 echo -e "\e[36m Hello World in Cyan\e[0m"
 
 
-red="\e[31m"
-no_color="\e[0m"
+## red="\e[31m"
+## no_color="\e[0m"
 
-echo -e "$red Using variable to display Red color $no_color"
