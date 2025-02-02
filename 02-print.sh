@@ -4,7 +4,7 @@
 
 source common.sh
 
-echo -e "$red Using common file to display Red color $no_color"
+echo -e "$red Using common file to display Green color $no_color"
 
 echo -e "Hello World"
 
